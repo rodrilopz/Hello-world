@@ -1,2 +1,2 @@
 # Hello-world
-my first project justo to undestan what github is about.
+My first project just to undestand how github is about.
